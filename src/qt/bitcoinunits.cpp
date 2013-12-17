@@ -45,13 +45,13 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("FooCoin");
-    case mBTC: return QString("milliFooCoin (1 / 1,000)");
-    case uBTC: return QString("microFooCoin (1 / 1,000,000)");
+    case BTC: return QString("EzeCoin");
+    case mBTC: return QString("milliEzeCoin (1 / 1,000)");
+    case uBTC: return QString("microEzeCoin (1 / 1,000,000)");
     default: return QString("???");
     }
 }
-//a single unit (.00000001) of FooCoin is called a "wander."
+//a single unit (.00000001) of EzeCoin is called a "wander."
 qint64 BitcoinUnits::factor(int unit)
 {
     switch(unit)

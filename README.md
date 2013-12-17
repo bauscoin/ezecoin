@@ -1,7 +1,7 @@
-FooCoin (FOO)
+EzeCoin (EZE)
 ===========
 
-[![Build Status](https://travis-ci.org/RazorLove/foocoin.png?branch=master)](https://travis-ci.org/RazorLove/foocoin)
+[![Build Status](https://travis-ci.org/RazorLove/ezecoin.png?branch=master)](https://travis-ci.org/RazorLove/ezecoin)
 
 
 Scrypt Hashcash PoW Template
